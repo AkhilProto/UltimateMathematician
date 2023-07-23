@@ -32,7 +32,7 @@ If you have any questions or problems, please feel free to open an issue on the 
 
 ## Credits
 
-@AkhilProto - Sole Creator of the Program
+[@AkhilProto](https://github.com/AkhilProto) - Sole Creator of the Program
 
 ## Thank You
 
