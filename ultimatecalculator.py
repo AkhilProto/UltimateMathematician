@@ -1,6 +1,4 @@
 import math
-import os
-
 run = True
 
 while run:
