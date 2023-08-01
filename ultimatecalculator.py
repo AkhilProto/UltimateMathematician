@@ -1,7 +1,10 @@
 import math
+<<<<<<< HEAD
 from image import art
 import os
 
+=======
+>>>>>>> c3cbb4e7e6b2f3fb6817f36b26e74e272a3a730c
 run = True
 
 while run:
@@ -36,7 +39,7 @@ while run:
     print("5. Exponentiation")
     print("6. Logarithm")
     print("7. Trigonometry")
-    print("8. Quadratic equations")
+    print("8. Area of Shapes")
     print("Quit - Ctrl + C")
     print("   ")
     choice = int(input("Please select an equation to solve: "))
@@ -50,9 +53,9 @@ while run:
     elif choice == 4:
       calculate_division()
     elif choice == 5:
-      calculate_exponentiation()
+      print (calculate_exponentiation())
     elif choice == 6:
-      calculate_logarithm()
+      print (calculate_logarithm())
     elif choice == 7:
       calculate_trigonometry()
     elif choice == 8:
@@ -134,8 +137,22 @@ while run:
     print(x, "/", y, "=", x / y)
 
 
+  def calculate_logarithm():
+    x = float(input("Enter the base number: "))
+    y = float(input("Enter the value number: "))
+
+    return math.log(y, x)
+
+  def calculate_exponentiation():
+    x = float(input("Enter the base number: "))
+    y = float(input("Enter the exponent number: "))
+
+    return math.pow(x, y)
+
+
+
   def calculate_trigonometry():
-    _type_ = input('What trigonometry function do you want to use (sin, cos, cosine, tan, cot, sec): ')
+    _type_ = input('What trigonometry function do you want to use (sin, cos, cosine, tan, cot, sec): ').lower()
     value = input('Value: ')
     value = int(value)
     if _type_ == "sin":
@@ -159,4 +176,5 @@ while run:
   if ask.lower() == 'y':
     run = True
   else:
+    print("Bye! Have a great time!")
     run = False
