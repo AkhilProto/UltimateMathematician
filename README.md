@@ -36,6 +36,7 @@ If you have any questions or problems, please feel free to open an issue on the 
 ## Credits
 
 [@AkhilProto](https://github.com/AkhilProto) - Sole Creator of the Program
+
 [@Bravo-ZR](https://github.com/Bravo-ZR) - #1 Contributor - Added functionalities and a loop to make the user use the calculator again after solving an equation.
 
 ## Thank You
