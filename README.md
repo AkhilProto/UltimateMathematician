@@ -2,6 +2,9 @@
 
 This Python program can solve a variety of mathematical equations, including addition, subtraction, multiplication, division, exponentiation, logarithms, trigonometry, and quadratic equations. It can also calculate the areas of different shapes, such as circles, rectangles, triangles, squares, and parallelograms.
 
+## Version
+v2.0
+
 ## Features
 
 * Solves a variety of mathematical equations
@@ -33,6 +36,7 @@ If you have any questions or problems, please feel free to open an issue on the 
 ## Credits
 
 [@AkhilProto](https://github.com/AkhilProto) - Sole Creator of the Program
+[@Bravo-ZR](https://github.com/Bravo-ZR) - #1 Contributor - Added functionalities and a loop to make the user use the calculator again after solving an equation.
 
 ## Thank You
 
