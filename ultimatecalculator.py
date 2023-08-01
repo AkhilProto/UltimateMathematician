@@ -1,4 +1,5 @@
 import math
+from image import art
 import os
 
 run = True
@@ -25,6 +26,7 @@ while run:
     return area
 
   def main():
+    print(art)
     print("Welcome to the mathematical equation solver!")
     print("Here are the equations that I can solve:")
     print("1. Addition")
