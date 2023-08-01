@@ -1,10 +1,7 @@
 import math
-<<<<<<< HEAD
 from image import art
 import os
 
-=======
->>>>>>> c3cbb4e7e6b2f3fb6817f36b26e74e272a3a730c
 run = True
 
 while run:
