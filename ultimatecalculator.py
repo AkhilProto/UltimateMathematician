@@ -1,7 +1,5 @@
 import math
 from image import art
-import os
-
 run = True
 
 while run:
