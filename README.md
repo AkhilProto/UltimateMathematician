@@ -15,29 +15,66 @@ v2.0
 
 ## Usage
 
-To use the program, simply run the `ultimatecalculator.py` file. The program will then print a list of the equations and shapes that it can solve. The user can then select the equation or shape they want to solve and then enter the necessary input. The program will then calculate the answer and print it out.
+To use the program, simply run [ultimatecalculator.py](ultimatecalculator.py). The program will then print a list of the equations and shapes that it can solve. The user can then select the equation or shape they want to solve and then enter the necessary input. The program will then calculate the answer and print it out.
 
-## Example
+## Example (bold text is user input)
 
-To calculate the area of a circle, the user would select the "Area of different shapes" option and then enter the radius of the circle. The program would then calculate the area and print it out.
+           @@@@@@@@@@@@@@@@@@@          
+         @ @@@@@@@@@@@@@@@@@@@ @        
+         @ @                 @ @        
+         @ @                 @ @        
+         @  @@@@@@@@@@@@@@@@@  @        
+         @ @ @ @  @ @ @  @ @ @ @        
+         @ @   @  @   @ @    @ @        
+         @  @@@   @@@@   @@@@  @             
+           @@@@@@@@@@@@@@@@@@@                                                                                                                      
+
+Welcome to the mathematical equation solver!
+Here are the equations that I can solve:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exponentiation
+6. Logarithm
+7. Trigonometry
+8. Area of Shapes
+Quit - Ctrl + C
+
+Please select an equation to solve: **7**
+
+What trigonometry function do you want to use (sin, cos, cosine, tan, cot, sec): **sin**
+
+Number: **90**
+
+sin 90 = 0.8939966636005579
+
+Do you want to continue(Y/N): **n**
+
+Bye! Have a great time!
+
 
 ## Contributing
 
-Contributions are welcome. To contribute, simply fork the repository and submit a pull request.
+Contributions are welcome. 
+
+To contribute, simply fork the repository, make your changes and submit a pull request.
 
 ## License
 
-The code is licensed under the MIT License.
+The code is licensed under the [MIT License](LICENSE).
 
 ## Getting Help
 
-If you have any questions or problems, please feel free to open an issue on the GitHub repository.
+If you have any questions or problems, please feel free to open an [issue](https://github.com/AkhilProto/UltimateMathematician/issues) on the GitHub repository.
 
 ## Credits
 
 [@AkhilProto](https://github.com/AkhilProto) - Sole Creator of the Program
 
 [@Bravo-ZR](https://github.com/Bravo-ZR) - #1 Contributor - Added functionalities and a loop to make the user use the calculator again after solving an equation.
+
+[@Veerhan-Glitch](https://github.com/Veerhan-Glitch) - Made changes for better readability, optimization and consistency
 
 ## Thank You
 
